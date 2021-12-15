@@ -1,7 +1,6 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="gls-container gls-is-fluid">
+    <HelloWorld/>
   </div>
 </template>
 
@@ -16,3 +15,8 @@ export default {
   }
 }
 </script>
+<style scoped>
+.gls-container.gls-is-fluid {
+  width: 100%;
+}
+</style>

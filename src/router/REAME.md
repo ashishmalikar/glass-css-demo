@@ -1,0 +1,224 @@
+# Routes
+
+- Landing Page
+- Version Details (What's New)
+- Getting Started
+  - Welcome
+  - Introduction
+  - Quick Start
+  - Installation
+  - Templates
+  - About
+- Setup or Customize or Configure
+- Components
+  - Accordion
+  - Alerts
+  - AutoComplete
+  - Avatar 
+  - Avatar Group 
+  - Badge
+  - banner
+  - Breadcrumbs
+  - Button
+  - Button Group
+  - Card
+  - Checkbox
+  - Code
+  - Data Tables
+  - Date Time picker
+  - Dropdown
+  - Table
+  - Flag
+  - Files
+  - Feeds
+  - Grid
+  - Header
+  - Form
+    - Form Control
+    - Select
+    - Checks and radios
+    - Range
+    - Input Group 
+    - Floating Labels
+    - Layouts
+    - Validations
+  - Inline Dialog
+  - Input
+  - Lookup
+  - Page Headers
+  - Tree
+  - Hierarchy
+  - File Explorer
+  - Layout
+  - Modal
+  - Radio
+  - Progress Bar
+  - pagination
+  - Placeholders
+  - Segment
+  - Select
+  - Search
+  - Spinner
+  - Tabs
+  - Tables
+  - Tag
+  - Tooltip
+  - Toast
+  - Timeline
+  - Textarea
+  - List
+  - Menu
+  - Ratings
+  - Steps
+  - Shellbar
+    - App Launcher
+  - Sidebar
+  - Spinners
+  - Toggle Switch
+  - Slider
+  - Loading
+  - Link
+  - Label
+  - File Uploader
+- Utilities (Bootstrap)
+  - API
+  - Background
+  - Borders
+  - Colors
+  - Display
+  - Flex
+  - Float
+  - Interactions
+  - Opacity
+  - Overflow
+  - Position
+  - Shadows
+  - Sizing
+  - Spacing
+  - Text
+  - Vertical Align
+  - Visibility
+  - Statistics
+  - Feed
+  - Comment
+  - Message
+  - Menu
+  - Image
+  - Container
+
+- Icons
+  - Dripicons
+  - CoreUI icons
+  - 
+- Utilities (Tailwind)
+  - Layout
+    - Container
+    - Box Decoration Break
+    - Box sizing
+    - Display
+    - Floats
+    - Clear
+    - Isolation
+    - Object Fit
+    - Object Position
+    - Overflow
+    - Overflow Behaviour
+    - position
+    - Top/right/bottom/left
+    - Visibility
+    - z-index
+  - Flexbox and grid
+    - Flex Direction
+    - Flex Wrap 
+    - flex
+    - Flex Grow
+    - Flex Shrink
+    - Order
+    - Justify Content
+    - Justify Items
+    - Justify Self
+  - Spacing
+    - Padding
+    - Margin
+    - Space Between
+  - Sizing
+    - width (min-max)
+    - Height (min-max)
+  - Typography
+    - Font
+      - family
+      - size
+      - smoothing
+      - style
+      - weight
+      - variant Numberic
+    - Letter
+      - spacing
+    - Line Height
+    - List Style type 
+    - List - Styel position
+    - Placeholder Color
+    - Placeholder opacity
+    - Text
+      - align
+      - color 
+      - Opacity
+      - decoration
+      - transform
+      - overflow
+    - Vertical Align
+    - Whitespace
+    - Word Break
+  - background
+    - Attachment
+    - Clip
+    - Color
+    - Opacity
+    - Origin
+    - Position
+    - Repeat
+    - Size
+    - Image
+    - Gradiant Color Stops
+  - Borders
+    - Radius
+    - Width
+    - Color
+    - Opacity
+    - Style
+  - Divide
+    - width
+    - Color
+    - Opacity
+    - Style
+  - Ring
+    - Width
+    - Color
+    - Opacity
+    - Offset Width
+    - Offset Color
+  - Filters
+    - Filter
+    - Blur
+    - Brightness
+    - Contrast
+    - Drop Shadow
+    - Grayscale
+    - Hue Roate
+    - Invert 
+    - Saturate
+    - Sepia
+    - Backdrop
+      - Filter
+      - Blur
+      - Brightness
+      - Contrast
+      - Grayscale
+      - Hue Rotate
+      - Invert
+      - Opacity
+      - Saturate
+      - Sepia
+
+
+
